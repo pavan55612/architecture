@@ -1,5 +1,2 @@
 # architecture
 
-# Hello
-
-theme: minima
